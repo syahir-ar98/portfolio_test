@@ -3,4 +3,4 @@
 This is my official portfolio. Feel free to check it out!
 Technologies used: Flutter, Riverpod.
 
-# Status: In Developement
+Status: In Developement
