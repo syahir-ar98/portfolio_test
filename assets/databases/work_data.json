@@ -1,0 +1,25 @@
+[
+    {
+        "title": "MathVision",
+        "description": "MathVision is a web application that predicts student's next Math performance based on their past result using Machine Learning algorithm.",
+        "keywords": [
+            "Machine Learning",
+            "Data Analytics",
+            "Firebase",
+            "Microsoft Azure",
+            "Flutter"
+        ],
+        "imageURL": "assets/images/mathvision@2x.jpg"
+    },
+    {
+        "title": "CebuPacific Visualisation",
+        "description": "Developed a series of visualisations to analyse customer satisfaction for CebuPacific, a Philippines airline company.",
+        "keywords": [
+            "d3.js",
+            "Chart.js",
+            "HTML",
+            "CSS"
+        ],
+        "imageURL": "assets/images/cebu-pacific@2x.jpg"
+    }
+]
